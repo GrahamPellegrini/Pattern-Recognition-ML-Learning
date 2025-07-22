@@ -14,7 +14,7 @@
 
 ---
 
-## 📚 Overview
+## Overview
 
 This repository contains implementations and experiments conducted as part of the [CCE2502](https://www.um.edu.mt/courses/studyunit/CCE2502) unit, **Pattern Recognition and Machine Learning** at the University of Malta. The work spans two comprehensive assignments:
 
@@ -23,13 +23,13 @@ This repository contains implementations and experiments conducted as part of th
 
 Each assignment is structured as a separate notebook, with annotated explanations and visual outputs.
 
-> 🧾 Both assignments were implemented and completed during Semester II, 2023/2024.
+> Both assignments were implemented and completed during Semester II, 2023/2024.
 
 ---
 
-## 🧪 Assignment I: Classification & Benchmarking
+## Assignment I: Classification & Benchmarking
 
-### 🔧 Tasks & Highlights
+### Tasks & Highlights
 
 - **Task 1**: 
   - Generate and visualise synthetic datasets with `make_circles` and `make_blobs`
@@ -49,13 +49,13 @@ Each assignment is structured as a separate notebook, with annotated explanation
   - Scale experiments to datasets of size `10^2` to `2.5x10^5`
   - Empirical validation of complexity analysis for `kNN`
 
-📄 See `assignment_I.pdf` for full code, metrics, and plotted results.
+See `assignment_I.pdf` for full code, metrics, and plotted results.
 
 ---
 
-## 📈 Assignment II: Logistic Regression (Scratch Implementation)
+## Assignment II: Logistic Regression (Scratch Implementation)
 
-### 🧩 Core Components
+### Core Components
 
 - Implemented from scratch using NumPy:
   - Logistic loss function (categorical cross-entropy)
@@ -74,11 +74,11 @@ Each assignment is structured as a separate notebook, with annotated explanation
 
 - **Bonus**: Comparison with `sklearn.MLPClassifier` on advanced datasets
 
-📄 See `CCE2502_Assignment_II.pdf` for all implementation details and analysis.
+See `CCE2502_Assignment_II.pdf` for all implementation details and analysis.
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Manual implementation of logistic regression solidified understanding of:
   - Gradient descent dynamics
@@ -92,7 +92,7 @@ Each assignment is structured as a separate notebook, with annotated explanation
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone this repository
 2. Open the `.ipynb` notebooks in Jupyter or VS Code
@@ -104,7 +104,7 @@ pip install matplotlib numpy scikit-learn
 
 ---
 
-## 📌 Tags
+## Tags
 
 ```
 logistic-regression, knn, ml-from-scratch, classification, benchmarking, sklearn, pattern-recognition, cce2502, university-of-malta
@@ -112,12 +112,12 @@ logistic-regression, knn, ml-from-scratch, classification, benchmarking, sklearn
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Graham Pellegrini**  
 University of Malta – Department of Computer Engineering  
 GitHub: [@GrahamPellegrini](https://github.com/GrahamPellegrini)
 
-📄 Report Files:
+Report Files:
 - [`Assignment_I.pdf`](assignment_I.pdf)
 - [`Assignment_II.pdf`](CCE2502_Assignment_II.pdf)
